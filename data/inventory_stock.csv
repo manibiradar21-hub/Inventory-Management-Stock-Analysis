@@ -1,0 +1,301 @@
+Snapshot_Date,SKU,Product,Category,Warehouse,Opening_Stock,Stock_Received,Units_Sold,Closing_Stock,Reorder_Level,Unit_Cost,Inventory_Value,Stock_Status
+2025-05-11,SKU0001,Keyboard,Displays,Bengaluru,227,76,15,288,20,500,144000,Sufficient
+2025-04-27,SKU0002,Monitor,Cables,Bengaluru,115,29,1,143,34,3500,500500,Sufficient
+2025-05-24,SKU0003,Keyboard,Cables,Hyderabad,243,94,32,305,30,3500,1067500,Sufficient
+2025-05-30,SKU0004,Wireless Mouse,Displays,Pune,151,21,24,148,58,500,74000,Sufficient
+2025-05-10,SKU0005,Wireless Mouse,Displays,Bengaluru,108,91,9,190,43,1800,342000,Sufficient
+2025-05-21,SKU0006,Wireless Mouse,Accessories,Bengaluru,20,30,37,13,57,250,3250,Reorder
+2025-05-13,SKU0007,USB Hub,Displays,Hyderabad,160,54,60,154,48,3500,539000,Sufficient
+2025-04-28,SKU0008,Headset,Peripherals,Pune,168,20,21,167,47,250,41750,Sufficient
+2025-04-29,SKU0009,Laptop Stand,Cables,Hyderabad,242,76,32,286,20,180,51480,Sufficient
+2025-06-22,SKU0010,HDMI Cable,Peripherals,Hyderabad,185,31,2,214,18,100,21400,Sufficient
+2025-06-01,SKU0011,Webcam,Cables,Bengaluru,26,87,6,107,17,1800,192600,Sufficient
+2025-04-09,SKU0012,Laptop Stand,Displays,Pune,150,8,18,140,41,250,35000,Sufficient
+2025-06-27,SKU0013,HDMI Cable,Displays,Chennai,190,50,54,186,24,1800,334800,Sufficient
+2025-06-04,SKU0014,Laptop Stand,Cables,Chennai,134,15,79,70,59,100,7000,Sufficient
+2025-04-05,SKU0015,Headset,Peripherals,Pune,118,88,94,112,20,500,56000,Sufficient
+2025-06-06,SKU0016,USB Hub,Peripherals,Pune,206,41,75,172,57,250,43000,Sufficient
+2025-05-24,SKU0017,Headset,Peripherals,Hyderabad,160,67,74,153,45,500,76500,Sufficient
+2025-06-23,SKU0018,Power Adapter,Cables,Bengaluru,176,87,112,151,19,180,27180,Sufficient
+2025-05-15,SKU0019,Power Adapter,Cables,Hyderabad,126,53,30,149,17,100,14900,Sufficient
+2025-05-18,SKU0020,Keyboard,Accessories,Pune,83,5,95,0,32,250,0,Reorder
+2025-04-29,SKU0021,Headset,Peripherals,Pune,139,22,112,49,30,500,24500,Sufficient
+2025-04-30,SKU0022,Power Adapter,Peripherals,Chennai,240,21,68,193,29,1800,347400,Sufficient
+2025-05-27,SKU0023,Docking Station,Displays,Chennai,158,91,100,149,38,500,74500,Sufficient
+2025-06-15,SKU0024,HDMI Cable,Accessories,Bengaluru,182,90,16,256,20,180,46080,Sufficient
+2025-06-21,SKU0025,USB Hub,Displays,Bengaluru,48,47,105,0,20,180,0,Reorder
+2025-06-10,SKU0026,Keyboard,Displays,Hyderabad,247,89,67,269,46,900,242100,Sufficient
+2025-05-26,SKU0027,Headset,Accessories,Chennai,76,24,26,74,59,500,37000,Sufficient
+2025-05-16,SKU0028,HDMI Cable,Accessories,Chennai,243,67,7,303,27,3500,1060500,Sufficient
+2025-05-01,SKU0029,Power Adapter,Displays,Bengaluru,122,39,86,75,56,500,37500,Sufficient
+2025-06-09,SKU0030,Webcam,Peripherals,Bengaluru,231,24,51,204,30,500,102000,Sufficient
+2025-04-29,SKU0031,Docking Station,Cables,Pune,225,25,37,213,30,100,21300,Sufficient
+2025-04-25,SKU0032,Headset,Cables,Pune,193,41,46,188,19,180,33840,Sufficient
+2025-06-18,SKU0033,Monitor,Cables,Chennai,230,33,118,145,34,1800,261000,Sufficient
+2025-05-24,SKU0034,USB Hub,Displays,Chennai,160,21,51,130,37,250,32500,Sufficient
+2025-05-03,SKU0035,USB Hub,Cables,Bengaluru,215,33,9,239,44,250,59750,Sufficient
+2025-06-18,SKU0036,HDMI Cable,Accessories,Bengaluru,59,12,33,38,22,900,34200,Sufficient
+2025-06-27,SKU0037,Headset,Peripherals,Pune,36,96,17,115,23,100,11500,Sufficient
+2025-04-29,SKU0038,Docking Station,Accessories,Pune,144,37,82,99,34,500,49500,Sufficient
+2025-05-18,SKU0039,Laptop Stand,Displays,Chennai,206,10,96,120,18,250,30000,Sufficient
+2025-05-15,SKU0040,Docking Station,Displays,Pune,196,57,100,153,21,180,27540,Sufficient
+2025-06-03,SKU0041,Headset,Peripherals,Pune,141,88,75,154,43,250,38500,Sufficient
+2025-06-26,SKU0042,Power Adapter,Peripherals,Hyderabad,139,35,92,82,57,500,41000,Sufficient
+2025-05-20,SKU0043,USB Hub,Displays,Bengaluru,160,84,50,194,40,180,34920,Sufficient
+2025-06-12,SKU0044,USB Hub,Accessories,Chennai,219,61,75,205,21,500,102500,Sufficient
+2025-05-25,SKU0045,Wireless Mouse,Displays,Chennai,213,73,12,274,59,1800,493200,Sufficient
+2025-06-20,SKU0046,HDMI Cable,Displays,Bengaluru,45,29,64,10,38,180,1800,Reorder
+2025-05-07,SKU0047,Docking Station,Accessories,Pune,157,3,66,94,47,3500,329000,Sufficient
+2025-05-06,SKU0048,HDMI Cable,Accessories,Hyderabad,107,34,3,138,23,900,124200,Sufficient
+2025-05-09,SKU0049,Laptop Stand,Peripherals,Hyderabad,203,92,65,230,41,1800,414000,Sufficient
+2025-06-30,SKU0050,Keyboard,Displays,Chennai,136,79,86,129,18,100,12900,Sufficient
+2025-05-26,SKU0051,HDMI Cable,Peripherals,Chennai,248,78,44,282,43,1800,507600,Sufficient
+2025-04-14,SKU0052,Laptop Stand,Peripherals,Bengaluru,119,87,65,141,24,250,35250,Sufficient
+2025-04-04,SKU0053,Headset,Displays,Hyderabad,176,37,34,179,55,900,161100,Sufficient
+2025-05-18,SKU0054,USB Hub,Accessories,Chennai,44,32,32,44,17,1800,79200,Sufficient
+2025-06-13,SKU0055,Power Adapter,Displays,Chennai,234,92,15,311,44,180,55980,Sufficient
+2025-05-14,SKU0056,HDMI Cable,Accessories,Bengaluru,55,57,39,73,21,180,13140,Sufficient
+2025-05-21,SKU0057,HDMI Cable,Accessories,Chennai,107,29,96,40,45,100,4000,Reorder
+2025-06-12,SKU0058,Keyboard,Accessories,Hyderabad,212,27,112,127,37,900,114300,Sufficient
+2025-05-17,SKU0059,Headset,Peripherals,Pune,242,87,76,253,58,1800,455400,Sufficient
+2025-06-22,SKU0060,Docking Station,Accessories,Bengaluru,131,5,74,62,44,250,15500,Sufficient
+2025-05-29,SKU0061,Power Adapter,Cables,Pune,131,6,73,64,31,180,11520,Sufficient
+2025-06-06,SKU0062,Laptop Stand,Peripherals,Pune,31,73,57,47,18,250,11750,Sufficient
+2025-06-11,SKU0063,Power Adapter,Cables,Pune,245,0,50,195,41,250,48750,Sufficient
+2025-05-28,SKU0064,Monitor,Cables,Chennai,23,17,74,0,34,3500,0,Reorder
+2025-04-05,SKU0065,Wireless Mouse,Cables,Chennai,25,99,94,30,17,100,3000,Sufficient
+2025-05-09,SKU0066,Webcam,Cables,Chennai,128,42,49,121,41,250,30250,Sufficient
+2025-04-13,SKU0067,Docking Station,Accessories,Pune,20,72,67,25,24,900,22500,Sufficient
+2025-05-17,SKU0068,Wireless Mouse,Peripherals,Chennai,57,48,56,49,25,180,8820,Sufficient
+2025-04-14,SKU0069,Laptop Stand,Displays,Pune,164,9,34,139,15,3500,486500,Sufficient
+2025-05-17,SKU0070,HDMI Cable,Displays,Pune,182,18,34,166,31,3500,581000,Sufficient
+2025-05-02,SKU0071,Power Adapter,Accessories,Pune,88,76,9,155,24,250,38750,Sufficient
+2025-04-02,SKU0072,Wireless Mouse,Displays,Chennai,202,9,52,159,18,1800,286200,Sufficient
+2025-04-12,SKU0073,Power Adapter,Cables,Bengaluru,159,59,85,133,34,1800,239400,Sufficient
+2025-05-16,SKU0074,Power Adapter,Cables,Pune,72,34,82,24,24,900,21600,Reorder
+2025-04-08,SKU0075,Power Adapter,Peripherals,Hyderabad,183,37,118,102,21,180,18360,Sufficient
+2025-06-17,SKU0076,Keyboard,Accessories,Chennai,156,95,4,247,36,100,24700,Sufficient
+2025-06-09,SKU0077,Headset,Peripherals,Bengaluru,206,60,91,175,17,250,43750,Sufficient
+2025-06-04,SKU0078,Power Adapter,Peripherals,Pune,55,61,95,21,59,100,2100,Reorder
+2025-04-16,SKU0079,Power Adapter,Peripherals,Bengaluru,73,35,52,56,36,250,14000,Sufficient
+2025-06-12,SKU0080,Webcam,Peripherals,Chennai,89,38,33,94,59,900,84600,Sufficient
+2025-05-28,SKU0081,Wireless Mouse,Peripherals,Chennai,98,68,42,124,54,900,111600,Sufficient
+2025-05-06,SKU0082,Laptop Stand,Accessories,Bengaluru,224,3,81,146,59,180,26280,Sufficient
+2025-04-01,SKU0083,Keyboard,Peripherals,Chennai,188,23,103,108,39,100,10800,Sufficient
+2025-05-19,SKU0084,Laptop Stand,Peripherals,Hyderabad,145,60,77,128,34,180,23040,Sufficient
+2025-06-12,SKU0085,Wireless Mouse,Accessories,Chennai,144,62,61,145,47,500,72500,Sufficient
+2025-04-04,SKU0086,Laptop Stand,Cables,Pune,223,9,78,154,18,1800,277200,Sufficient
+2025-04-05,SKU0087,Docking Station,Displays,Bengaluru,122,78,8,192,52,250,48000,Sufficient
+2025-05-05,SKU0088,Headset,Cables,Bengaluru,71,54,72,53,29,250,13250,Sufficient
+2025-05-17,SKU0089,Headset,Displays,Hyderabad,51,23,5,69,15,500,34500,Sufficient
+2025-05-14,SKU0090,HDMI Cable,Accessories,Bengaluru,95,75,115,55,25,100,5500,Sufficient
+2025-05-09,SKU0091,USB Hub,Cables,Bengaluru,170,99,106,163,25,180,29340,Sufficient
+2025-04-24,SKU0092,USB Hub,Peripherals,Chennai,128,42,61,109,15,100,10900,Sufficient
+2025-04-06,SKU0093,Keyboard,Displays,Chennai,117,28,44,101,45,500,50500,Sufficient
+2025-04-03,SKU0094,USB Hub,Peripherals,Hyderabad,130,29,87,72,19,500,36000,Sufficient
+2025-04-09,SKU0095,Wireless Mouse,Peripherals,Bengaluru,244,59,76,227,53,900,204300,Sufficient
+2025-06-02,SKU0096,Headset,Peripherals,Bengaluru,249,4,84,169,35,900,152100,Sufficient
+2025-06-11,SKU0097,Power Adapter,Peripherals,Chennai,57,48,61,44,47,250,11000,Reorder
+2025-05-10,SKU0098,Headset,Displays,Hyderabad,46,2,28,20,30,3500,70000,Reorder
+2025-04-08,SKU0099,Keyboard,Displays,Bengaluru,76,3,8,71,20,3500,248500,Sufficient
+2025-05-08,SKU0100,Webcam,Accessories,Hyderabad,215,43,33,225,23,100,22500,Sufficient
+2025-06-29,SKU0101,HDMI Cable,Accessories,Hyderabad,125,74,63,136,44,3500,476000,Sufficient
+2025-04-23,SKU0102,USB Hub,Cables,Pune,218,88,50,256,47,180,46080,Sufficient
+2025-05-15,SKU0103,Keyboard,Displays,Hyderabad,168,8,60,116,27,180,20880,Sufficient
+2025-05-19,SKU0104,Docking Station,Cables,Chennai,147,24,33,138,31,500,69000,Sufficient
+2025-05-01,SKU0105,Wireless Mouse,Displays,Pune,84,42,112,14,57,100,1400,Reorder
+2025-05-10,SKU0106,Power Adapter,Displays,Chennai,99,57,44,112,53,250,28000,Sufficient
+2025-05-13,SKU0107,Monitor,Cables,Hyderabad,53,98,101,50,33,180,9000,Sufficient
+2025-05-14,SKU0108,Monitor,Displays,Pune,139,68,46,161,25,500,80500,Sufficient
+2025-06-05,SKU0109,Docking Station,Peripherals,Hyderabad,84,53,53,84,28,1800,151200,Sufficient
+2025-05-23,SKU0110,Laptop Stand,Displays,Pune,87,6,72,21,39,3500,73500,Reorder
+2025-04-05,SKU0111,Keyboard,Accessories,Pune,29,8,31,6,40,180,1080,Reorder
+2025-04-01,SKU0112,Wireless Mouse,Peripherals,Hyderabad,203,15,26,192,23,500,96000,Sufficient
+2025-05-08,SKU0113,Monitor,Displays,Chennai,236,66,45,257,17,500,128500,Sufficient
+2025-06-22,SKU0114,Headset,Accessories,Chennai,134,33,96,71,37,250,17750,Sufficient
+2025-04-04,SKU0115,Wireless Mouse,Displays,Chennai,143,24,17,150,50,900,135000,Sufficient
+2025-04-07,SKU0116,Monitor,Displays,Bengaluru,232,67,52,247,21,3500,864500,Sufficient
+2025-06-01,SKU0117,Docking Station,Peripherals,Pune,137,81,80,138,33,250,34500,Sufficient
+2025-05-12,SKU0118,Power Adapter,Accessories,Bengaluru,163,43,84,122,22,100,12200,Sufficient
+2025-04-21,SKU0119,Laptop Stand,Displays,Bengaluru,118,88,52,154,25,3500,539000,Sufficient
+2025-04-19,SKU0120,Webcam,Cables,Chennai,138,73,9,202,42,3500,707000,Sufficient
+2025-05-31,SKU0121,Laptop Stand,Displays,Bengaluru,140,71,1,210,27,250,52500,Sufficient
+2025-05-18,SKU0122,Headset,Peripherals,Chennai,183,86,56,213,26,500,106500,Sufficient
+2025-05-29,SKU0123,HDMI Cable,Displays,Hyderabad,158,18,97,79,59,3500,276500,Sufficient
+2025-04-26,SKU0124,Docking Station,Peripherals,Hyderabad,135,75,3,207,22,500,103500,Sufficient
+2025-05-18,SKU0125,Keyboard,Peripherals,Bengaluru,37,95,106,26,23,500,13000,Sufficient
+2025-06-18,SKU0126,Keyboard,Peripherals,Pune,228,99,81,246,56,3500,861000,Sufficient
+2025-04-29,SKU0127,Docking Station,Accessories,Pune,224,57,0,281,39,1800,505800,Sufficient
+2025-05-07,SKU0128,HDMI Cable,Cables,Hyderabad,62,75,41,96,16,500,48000,Sufficient
+2025-04-15,SKU0129,Keyboard,Displays,Chennai,87,88,26,149,34,180,26820,Sufficient
+2025-05-29,SKU0130,Laptop Stand,Accessories,Hyderabad,243,85,113,215,40,500,107500,Sufficient
+2025-04-03,SKU0131,USB Hub,Cables,Pune,93,89,66,116,26,900,104400,Sufficient
+2025-04-23,SKU0132,Webcam,Accessories,Hyderabad,206,83,38,251,39,180,45180,Sufficient
+2025-06-04,SKU0133,USB Hub,Displays,Pune,200,38,33,205,44,500,102500,Sufficient
+2025-04-02,SKU0134,Power Adapter,Accessories,Bengaluru,217,73,67,223,26,900,200700,Sufficient
+2025-06-30,SKU0135,HDMI Cable,Peripherals,Hyderabad,23,41,0,64,51,100,6400,Sufficient
+2025-05-07,SKU0136,Docking Station,Displays,Pune,131,80,30,181,35,500,90500,Sufficient
+2025-05-07,SKU0137,Laptop Stand,Cables,Pune,150,81,19,212,58,1800,381600,Sufficient
+2025-05-19,SKU0138,HDMI Cable,Cables,Hyderabad,212,93,74,231,18,180,41580,Sufficient
+2025-05-29,SKU0139,Docking Station,Cables,Pune,71,58,80,49,29,500,24500,Sufficient
+2025-05-12,SKU0140,Monitor,Accessories,Pune,90,47,56,81,47,900,72900,Sufficient
+2025-06-20,SKU0141,Headset,Accessories,Hyderabad,61,16,16,61,55,100,6100,Sufficient
+2025-06-27,SKU0142,HDMI Cable,Cables,Bengaluru,195,63,44,214,24,900,192600,Sufficient
+2025-04-19,SKU0143,Power Adapter,Cables,Pune,249,56,101,204,59,180,36720,Sufficient
+2025-06-04,SKU0144,Headset,Peripherals,Chennai,52,51,24,79,23,250,19750,Sufficient
+2025-04-28,SKU0145,Laptop Stand,Accessories,Chennai,73,67,19,121,33,900,108900,Sufficient
+2025-06-30,SKU0146,Webcam,Displays,Pune,90,85,13,162,29,100,16200,Sufficient
+2025-04-24,SKU0147,Webcam,Accessories,Chennai,224,14,98,140,34,100,14000,Sufficient
+2025-04-27,SKU0148,Laptop Stand,Accessories,Chennai,122,43,14,151,55,500,75500,Sufficient
+2025-06-04,SKU0149,HDMI Cable,Cables,Pune,84,72,69,87,47,3500,304500,Sufficient
+2025-06-11,SKU0150,Keyboard,Peripherals,Bengaluru,94,81,119,56,50,100,5600,Sufficient
+2025-04-12,SKU0151,HDMI Cable,Accessories,Pune,157,77,77,157,26,1800,282600,Sufficient
+2025-05-21,SKU0152,Headset,Displays,Pune,109,79,49,139,57,100,13900,Sufficient
+2025-05-02,SKU0153,Monitor,Peripherals,Hyderabad,52,85,24,113,34,500,56500,Sufficient
+2025-05-26,SKU0154,Laptop Stand,Displays,Chennai,208,96,0,304,44,500,152000,Sufficient
+2025-05-21,SKU0155,Laptop Stand,Cables,Chennai,117,60,18,159,46,500,79500,Sufficient
+2025-06-29,SKU0156,Docking Station,Accessories,Hyderabad,79,24,114,0,44,100,0,Reorder
+2025-06-24,SKU0157,Monitor,Displays,Hyderabad,187,56,17,226,42,1800,406800,Sufficient
+2025-05-30,SKU0158,HDMI Cable,Cables,Bengaluru,191,70,2,259,36,180,46620,Sufficient
+2025-06-01,SKU0159,Keyboard,Peripherals,Bengaluru,55,10,97,0,44,1800,0,Reorder
+2025-06-21,SKU0160,Power Adapter,Cables,Hyderabad,36,75,50,61,55,900,54900,Sufficient
+2025-04-17,SKU0161,Power Adapter,Peripherals,Hyderabad,30,54,42,42,32,500,21000,Sufficient
+2025-06-06,SKU0162,Wireless Mouse,Peripherals,Hyderabad,196,93,86,203,37,250,50750,Sufficient
+2025-06-10,SKU0163,Webcam,Cables,Bengaluru,163,21,62,122,23,900,109800,Sufficient
+2025-04-12,SKU0164,Power Adapter,Displays,Hyderabad,202,90,109,183,30,3500,640500,Sufficient
+2025-06-20,SKU0165,Monitor,Cables,Pune,164,44,56,152,49,3500,532000,Sufficient
+2025-06-03,SKU0166,Laptop Stand,Cables,Hyderabad,112,57,85,84,43,3500,294000,Sufficient
+2025-05-02,SKU0167,HDMI Cable,Displays,Pune,155,66,105,116,24,180,20880,Sufficient
+2025-05-15,SKU0168,USB Hub,Accessories,Hyderabad,186,57,55,188,39,900,169200,Sufficient
+2025-05-15,SKU0169,Laptop Stand,Peripherals,Pune,111,90,34,167,51,250,41750,Sufficient
+2025-06-23,SKU0170,HDMI Cable,Cables,Pune,230,16,116,130,20,3500,455000,Sufficient
+2025-06-28,SKU0171,Webcam,Displays,Chennai,226,72,27,271,17,3500,948500,Sufficient
+2025-06-13,SKU0172,Laptop Stand,Peripherals,Bengaluru,204,97,4,297,32,3500,1039500,Sufficient
+2025-05-30,SKU0173,Keyboard,Peripherals,Chennai,248,22,69,201,44,180,36180,Sufficient
+2025-04-10,SKU0174,Laptop Stand,Cables,Hyderabad,109,25,118,16,29,250,4000,Reorder
+2025-06-23,SKU0175,Power Adapter,Accessories,Bengaluru,46,47,10,83,51,900,74700,Sufficient
+2025-04-13,SKU0176,Laptop Stand,Accessories,Pune,131,72,101,102,53,1800,183600,Sufficient
+2025-04-16,SKU0177,Docking Station,Cables,Bengaluru,191,95,99,187,38,250,46750,Sufficient
+2025-04-07,SKU0178,Headset,Peripherals,Bengaluru,199,79,111,167,32,100,16700,Sufficient
+2025-06-26,SKU0179,Headset,Cables,Chennai,109,79,50,138,16,100,13800,Sufficient
+2025-05-15,SKU0180,HDMI Cable,Displays,Bengaluru,87,44,30,101,51,900,90900,Sufficient
+2025-04-22,SKU0181,HDMI Cable,Cables,Pune,122,64,61,125,55,500,62500,Sufficient
+2025-04-08,SKU0182,Wireless Mouse,Displays,Bengaluru,204,21,17,208,34,500,104000,Sufficient
+2025-05-08,SKU0183,Laptop Stand,Cables,Bengaluru,33,46,101,0,38,1800,0,Reorder
+2025-06-05,SKU0184,Wireless Mouse,Cables,Bengaluru,95,18,79,34,48,100,3400,Reorder
+2025-06-30,SKU0185,Webcam,Accessories,Bengaluru,72,2,57,17,46,1800,30600,Reorder
+2025-05-21,SKU0186,Headset,Cables,Hyderabad,205,85,61,229,21,180,41220,Sufficient
+2025-05-26,SKU0187,Laptop Stand,Displays,Hyderabad,128,80,85,123,45,3500,430500,Sufficient
+2025-06-16,SKU0188,Keyboard,Accessories,Bengaluru,39,51,62,28,56,3500,98000,Reorder
+2025-06-22,SKU0189,Headset,Accessories,Hyderabad,80,1,100,0,48,500,0,Reorder
+2025-04-26,SKU0190,Docking Station,Peripherals,Hyderabad,30,9,110,0,36,250,0,Reorder
+2025-06-30,SKU0191,Monitor,Accessories,Pune,129,11,113,27,38,180,4860,Reorder
+2025-05-18,SKU0192,Power Adapter,Peripherals,Chennai,249,71,74,246,26,180,44280,Sufficient
+2025-06-24,SKU0193,Power Adapter,Cables,Pune,150,20,89,81,44,3500,283500,Sufficient
+2025-04-11,SKU0194,Docking Station,Peripherals,Chennai,219,25,37,207,25,180,37260,Sufficient
+2025-04-09,SKU0195,USB Hub,Accessories,Bengaluru,190,86,4,272,30,500,136000,Sufficient
+2025-06-20,SKU0196,HDMI Cable,Peripherals,Bengaluru,223,87,48,262,26,500,131000,Sufficient
+2025-06-01,SKU0197,Docking Station,Accessories,Chennai,91,76,104,63,30,900,56700,Sufficient
+2025-04-16,SKU0198,Headset,Cables,Hyderabad,238,30,16,252,31,1800,453600,Sufficient
+2025-06-21,SKU0199,USB Hub,Accessories,Chennai,74,57,65,66,18,500,33000,Sufficient
+2025-04-10,SKU0200,HDMI Cable,Cables,Hyderabad,120,20,23,117,47,1800,210600,Sufficient
+2025-06-02,SKU0201,Headset,Peripherals,Bengaluru,176,85,51,210,34,500,105000,Sufficient
+2025-04-19,SKU0202,Wireless Mouse,Accessories,Chennai,85,8,17,76,57,500,38000,Sufficient
+2025-04-07,SKU0203,Power Adapter,Displays,Pune,80,74,88,66,23,180,11880,Sufficient
+2025-06-13,SKU0204,Laptop Stand,Peripherals,Chennai,49,51,97,3,45,180,540,Reorder
+2025-06-17,SKU0205,Webcam,Cables,Hyderabad,20,75,91,4,23,500,2000,Reorder
+2025-04-10,SKU0206,Webcam,Displays,Bengaluru,135,45,84,96,39,100,9600,Sufficient
+2025-04-09,SKU0207,Headset,Cables,Pune,246,15,28,233,37,250,58250,Sufficient
+2025-05-26,SKU0208,Laptop Stand,Peripherals,Bengaluru,70,75,63,82,35,500,41000,Sufficient
+2025-04-03,SKU0209,USB Hub,Accessories,Pune,121,63,12,172,44,500,86000,Sufficient
+2025-06-07,SKU0210,HDMI Cable,Accessories,Hyderabad,235,46,44,237,52,1800,426600,Sufficient
+2025-06-23,SKU0211,Keyboard,Peripherals,Chennai,197,37,60,174,29,3500,609000,Sufficient
+2025-06-08,SKU0212,Webcam,Peripherals,Chennai,20,34,80,0,53,1800,0,Reorder
+2025-04-21,SKU0213,HDMI Cable,Cables,Hyderabad,135,48,11,172,23,100,17200,Sufficient
+2025-04-18,SKU0214,Power Adapter,Peripherals,Chennai,52,26,97,0,28,250,0,Reorder
+2025-06-01,SKU0215,Headset,Cables,Bengaluru,76,28,55,49,28,1800,88200,Sufficient
+2025-04-06,SKU0216,Monitor,Accessories,Bengaluru,76,27,105,0,57,900,0,Reorder
+2025-05-19,SKU0217,Webcam,Peripherals,Chennai,160,1,63,98,20,500,49000,Sufficient
+2025-05-11,SKU0218,USB Hub,Cables,Pune,65,92,65,92,32,500,46000,Sufficient
+2025-06-07,SKU0219,Webcam,Accessories,Hyderabad,77,23,83,17,34,250,4250,Reorder
+2025-04-19,SKU0220,Docking Station,Peripherals,Bengaluru,71,16,98,0,51,900,0,Reorder
+2025-06-09,SKU0221,Docking Station,Cables,Hyderabad,102,15,18,99,36,180,17820,Sufficient
+2025-06-03,SKU0222,Keyboard,Displays,Pune,170,98,61,207,58,500,103500,Sufficient
+2025-04-22,SKU0223,Docking Station,Cables,Chennai,111,47,3,155,48,180,27900,Sufficient
+2025-05-03,SKU0224,Headset,Displays,Chennai,95,32,56,71,46,900,63900,Sufficient
+2025-04-07,SKU0225,Power Adapter,Cables,Hyderabad,139,40,97,82,48,3500,287000,Sufficient
+2025-05-11,SKU0226,Webcam,Cables,Hyderabad,161,8,103,66,22,500,33000,Sufficient
+2025-04-24,SKU0227,HDMI Cable,Cables,Bengaluru,23,31,34,20,35,250,5000,Reorder
+2025-04-11,SKU0228,Power Adapter,Accessories,Bengaluru,224,24,46,202,41,3500,707000,Sufficient
+2025-05-21,SKU0229,Power Adapter,Displays,Hyderabad,230,80,66,244,24,900,219600,Sufficient
+2025-05-22,SKU0230,Docking Station,Accessories,Pune,158,5,47,116,20,250,29000,Sufficient
+2025-04-08,SKU0231,Headset,Accessories,Bengaluru,152,42,21,173,21,100,17300,Sufficient
+2025-04-17,SKU0232,Wireless Mouse,Peripherals,Hyderabad,179,79,36,222,50,100,22200,Sufficient
+2025-04-08,SKU0233,Monitor,Displays,Pune,121,83,48,156,44,180,28080,Sufficient
+2025-06-01,SKU0234,USB Hub,Peripherals,Chennai,104,51,62,93,27,180,16740,Sufficient
+2025-05-01,SKU0235,Docking Station,Cables,Chennai,101,22,110,13,48,1800,23400,Reorder
+2025-04-07,SKU0236,Headset,Peripherals,Hyderabad,56,33,65,24,46,500,12000,Reorder
+2025-04-18,SKU0237,USB Hub,Displays,Hyderabad,213,22,46,189,51,3500,661500,Sufficient
+2025-06-28,SKU0238,Wireless Mouse,Cables,Chennai,93,66,79,80,55,500,40000,Sufficient
+2025-04-24,SKU0239,Docking Station,Cables,Pune,85,29,92,22,54,3500,77000,Reorder
+2025-06-02,SKU0240,USB Hub,Accessories,Hyderabad,241,63,51,253,23,500,126500,Sufficient
+2025-05-13,SKU0241,Laptop Stand,Displays,Pune,136,65,58,143,49,250,35750,Sufficient
+2025-04-17,SKU0242,Keyboard,Accessories,Bengaluru,163,93,26,230,32,1800,414000,Sufficient
+2025-04-28,SKU0243,HDMI Cable,Displays,Hyderabad,76,37,103,10,33,500,5000,Reorder
+2025-04-02,SKU0244,Wireless Mouse,Peripherals,Hyderabad,83,96,104,75,44,180,13500,Sufficient
+2025-06-07,SKU0245,USB Hub,Cables,Chennai,187,40,20,207,42,500,103500,Sufficient
+2025-05-01,SKU0246,Headset,Cables,Bengaluru,123,68,41,150,33,900,135000,Sufficient
+2025-05-16,SKU0247,Laptop Stand,Cables,Chennai,53,66,32,87,59,250,21750,Sufficient
+2025-04-14,SKU0248,Wireless Mouse,Cables,Hyderabad,212,81,110,183,22,900,164700,Sufficient
+2025-06-15,SKU0249,Power Adapter,Peripherals,Bengaluru,112,46,7,151,19,3500,528500,Sufficient
+2025-04-20,SKU0250,Headset,Displays,Pune,173,79,24,228,16,250,57000,Sufficient
+2025-05-22,SKU0251,Keyboard,Accessories,Pune,98,35,37,96,51,250,24000,Sufficient
+2025-06-19,SKU0252,Wireless Mouse,Displays,Bengaluru,148,49,67,130,33,250,32500,Sufficient
+2025-06-04,SKU0253,USB Hub,Accessories,Bengaluru,198,49,29,218,34,1800,392400,Sufficient
+2025-05-25,SKU0254,Docking Station,Displays,Bengaluru,223,70,64,229,44,180,41220,Sufficient
+2025-06-20,SKU0255,Docking Station,Cables,Hyderabad,67,61,89,39,34,3500,136500,Sufficient
+2025-04-17,SKU0256,Wireless Mouse,Displays,Bengaluru,174,7,99,82,40,250,20500,Sufficient
+2025-06-27,SKU0257,Docking Station,Cables,Pune,230,80,11,299,17,1800,538200,Sufficient
+2025-05-21,SKU0258,HDMI Cable,Accessories,Bengaluru,167,75,16,226,22,1800,406800,Sufficient
+2025-05-08,SKU0259,Keyboard,Cables,Chennai,52,10,11,51,56,1800,91800,Reorder
+2025-04-24,SKU0260,Laptop Stand,Displays,Chennai,63,96,109,50,35,3500,175000,Sufficient
+2025-06-07,SKU0261,Power Adapter,Displays,Pune,66,66,78,54,22,180,9720,Sufficient
+2025-06-28,SKU0262,Headset,Cables,Chennai,44,8,63,0,31,900,0,Reorder
+2025-06-02,SKU0263,Docking Station,Displays,Chennai,193,49,94,148,30,100,14800,Sufficient
+2025-04-03,SKU0264,Monitor,Peripherals,Bengaluru,241,83,70,254,27,250,63500,Sufficient
+2025-05-13,SKU0265,Keyboard,Displays,Hyderabad,138,27,28,137,28,100,13700,Sufficient
+2025-06-06,SKU0266,Keyboard,Displays,Chennai,157,93,61,189,47,900,170100,Sufficient
+2025-05-07,SKU0267,Keyboard,Cables,Hyderabad,197,41,84,154,19,900,138600,Sufficient
+2025-06-10,SKU0268,USB Hub,Peripherals,Pune,115,22,4,133,28,1800,239400,Sufficient
+2025-06-04,SKU0269,Wireless Mouse,Displays,Chennai,128,35,72,91,36,180,16380,Sufficient
+2025-04-07,SKU0270,HDMI Cable,Displays,Chennai,155,52,59,148,39,250,37000,Sufficient
+2025-05-21,SKU0271,Headset,Accessories,Hyderabad,90,68,8,150,54,900,135000,Sufficient
+2025-04-16,SKU0272,Power Adapter,Accessories,Hyderabad,34,92,31,95,56,1800,171000,Sufficient
+2025-05-15,SKU0273,Headset,Accessories,Bengaluru,150,19,53,116,28,3500,406000,Sufficient
+2025-05-05,SKU0274,Monitor,Displays,Hyderabad,209,96,41,264,39,100,26400,Sufficient
+2025-06-13,SKU0275,Headset,Peripherals,Hyderabad,36,52,34,54,16,250,13500,Sufficient
+2025-06-19,SKU0276,Wireless Mouse,Cables,Hyderabad,69,12,77,4,42,100,400,Reorder
+2025-05-12,SKU0277,HDMI Cable,Displays,Hyderabad,80,92,48,124,21,1800,223200,Sufficient
+2025-05-19,SKU0278,Docking Station,Accessories,Chennai,205,34,59,180,18,100,18000,Sufficient
+2025-05-27,SKU0279,Wireless Mouse,Accessories,Chennai,136,62,95,103,45,1800,185400,Sufficient
+2025-05-30,SKU0280,Headset,Peripherals,Pune,142,69,11,200,23,180,36000,Sufficient
+2025-05-28,SKU0281,Headset,Cables,Bengaluru,168,1,43,126,36,100,12600,Sufficient
+2025-06-11,SKU0282,Keyboard,Accessories,Hyderabad,83,22,8,97,19,3500,339500,Sufficient
+2025-06-29,SKU0283,Wireless Mouse,Accessories,Pune,184,68,111,141,48,500,70500,Sufficient
+2025-06-15,SKU0284,Docking Station,Accessories,Bengaluru,26,32,22,36,49,250,9000,Reorder
+2025-04-13,SKU0285,Keyboard,Peripherals,Hyderabad,46,0,98,0,40,900,0,Reorder
+2025-05-14,SKU0286,Headset,Cables,Pune,207,2,22,187,52,180,33660,Sufficient
+2025-05-12,SKU0287,Keyboard,Displays,Chennai,171,82,38,215,34,900,193500,Sufficient
+2025-05-17,SKU0288,Webcam,Peripherals,Chennai,60,15,72,3,23,500,1500,Reorder
+2025-05-19,SKU0289,Laptop Stand,Accessories,Hyderabad,120,10,99,31,21,180,5580,Sufficient
+2025-06-05,SKU0290,Monitor,Peripherals,Hyderabad,31,56,21,66,24,250,16500,Sufficient
+2025-05-09,SKU0291,Headset,Displays,Hyderabad,174,11,25,160,24,100,16000,Sufficient
+2025-04-24,SKU0292,USB Hub,Peripherals,Pune,193,65,105,153,29,250,38250,Sufficient
+2025-05-12,SKU0293,Webcam,Displays,Hyderabad,84,54,38,100,24,900,90000,Sufficient
+2025-06-17,SKU0294,Wireless Mouse,Cables,Hyderabad,100,64,25,139,41,100,13900,Sufficient
+2025-04-29,SKU0295,USB Hub,Accessories,Bengaluru,74,49,89,34,21,100,3400,Sufficient
+2025-04-02,SKU0296,Docking Station,Peripherals,Hyderabad,109,77,10,176,42,900,158400,Sufficient
+2025-06-28,SKU0297,Monitor,Accessories,Bengaluru,82,64,104,42,30,250,10500,Sufficient
+2025-04-18,SKU0298,Wireless Mouse,Displays,Pune,76,41,105,12,45,100,1200,Reorder
+2025-05-25,SKU0299,HDMI Cable,Peripherals,Chennai,118,1,102,17,38,1800,30600,Reorder
+2025-06-12,SKU0300,Docking Station,Peripherals,Chennai,217,27,35,209,55,1800,376200,Sufficient
